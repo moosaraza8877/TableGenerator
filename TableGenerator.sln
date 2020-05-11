@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableGenerator", "TableGenerator\TableGenerator.csproj", "{6338BC31-051B-49EC-B817-541088DF2A1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{CF797D11-F1D8-4AC4-BD12-83BF79F5A8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6338BC31-051B-49EC-B817-541088DF2A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6338BC31-051B-49EC-B817-541088DF2A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6338BC31-051B-49EC-B817-541088DF2A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6338BC31-051B-49EC-B817-541088DF2A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF797D11-F1D8-4AC4-BD12-83BF79F5A8E8}.Debug|Any CPU.ActiveCfg = Debug
+		{CF797D11-F1D8-4AC4-BD12-83BF79F5A8E8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBE440C-4CEC-447B-9EC6-891FED1AEA21}
+	EndGlobalSection
+EndGlobal

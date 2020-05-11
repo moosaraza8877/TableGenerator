@@ -1,0 +1,10 @@
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\bin\Debug\TableGenerator.exe.config
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\bin\Debug\TableGenerator.exe
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\bin\Debug\TableGenerator.pdb
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.exe
+C:\Users\Moosa Raza\Documents\Programming\TableGenerator\TableGenerator\obj\Debug\TableGenerator.pdb
